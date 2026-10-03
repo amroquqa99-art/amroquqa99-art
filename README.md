@@ -1,16 +1,30 @@
-## Hi there 👋
+# Amro Quqa
 
-<!--
-**amroquqa99-art/amroquqa99-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Systems Engineering | Agentic Software | Applied LLM Research**
 
-Here are some ideas to get you started:
+Based in Palestine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build and explore intelligent software systems, focusing on agent orchestration, local AI, evaluation, and practical architecture.
+
+## Engineering focus
+
+- AI agents and multi-agent systems
+- LLM engineering, local inference and model evaluation
+- Modular software architecture and offline-first applications
+- Applied AI research and evidence-driven workflows
+
+## Toolbox
+
+Python | TypeScript | JavaScript | React | Next.js | Supabase | SQLite | Linux | Git
+
+## Currently exploring
+
+- Extensible AI harnesses and agent orchestration
+- Privacy-conscious local AI
+- Benchmarks for real-world utility
+
+> Build for substance. Measure what matters.
+
+[Explore my repositories](https://github.com/amroquqa99-art?tab=repositories)
+
+Public project case studies will be added as they become ready.
